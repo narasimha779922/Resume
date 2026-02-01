@@ -1,5 +1,5 @@
 # Hi, I'm Bollineni Narasimha Naidu 👋  
-### Data Analyst | SQL | Python | Excel | Power BI  
+### Data Analyst | SQL | Python - Pandas,Numpy | Excel | Power BI |Machine Learning
 
 📞 **Phone:** +91 7799223761  
 📧 **Email:** narasimhanaidu612@gmail.com  
